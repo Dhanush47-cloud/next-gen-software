@@ -1,7 +1,7 @@
 -- Student Management System SQL Project
 
 -- 1. Create Tables
-CREATE TABLE Students (
+CREATE TABLE Students ( 
     student_id INT PRIMARY KEY,
     name VARCHAR(100),
     age INT,
