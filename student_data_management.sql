@@ -67,4 +67,4 @@ SELECT AVG(age) AS average_age FROM Students;
 UPDATE Students SET name = 'Alicia' WHERE student_id = 1;
 
 -- Delete a course
-DELETE FROM Courses WHERE course_id = 103;
+DELETE FROM Courses WHERE course_id = 103; 
