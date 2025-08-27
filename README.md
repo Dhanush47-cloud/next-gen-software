@@ -57,17 +57,3 @@ This is a simple **SQL project for beginners** that demonstrates basic database 
 
 ---
 
-## 🚀 Getting Started
-1. Open a SQL client (e.g. MySQL Workbench, phpMyAdmin, pgAdmin)
-2. Run the `student_management.sql` script
-3. Try modifying the data and queries to learn more!
-
----
-
-## 🛠️ Requirements
-- MySQL or any standard SQL database (e.g. PostgreSQL, SQLite)
-
----
-
-## 📝 License
-This project is open-source and free to use for learning purposes.
