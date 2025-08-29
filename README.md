@@ -1,4 +1,4 @@
-# Next-gen-software
+## Next-gen-software
 # Student Management System (SQL Project)
 
 This is a simple **SQL project for beginners** that demonstrates basic database design, SQL queries, and table relationships using a **Student Management System**.
