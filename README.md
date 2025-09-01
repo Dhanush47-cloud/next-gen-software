@@ -23,7 +23,7 @@ This is a simple **SQL project for beginners** that demonstrates basic database 
 ### 1. Students
 | Column      | Type         |
 |-------------|--------------|
-| student_id  | INT (PK)     |
+| student_id  | INT (PK)     | 
 | name        | VARCHAR(100) |
 | age         | INT          |
 | gender      | VARCHAR(10)  |
