@@ -5,7 +5,7 @@ CREATE TABLE Students (
     student_id INT PRIMARY KEY,
     name VARCHAR(100),
     age INT,
-    gender VARCHAR(10)
+    gender VARCHAR(10)                                       
 );
 
 CREATE TABLE Courses (
