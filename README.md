@@ -3,7 +3,7 @@
 
 This is a simple **SQL project for beginners** that demonstrates basic database design, SQL queries, and table relationships using a **Student Management System**.
 
----
+---   
 
 ## 📁 Project Structure
 - `student_management.sql` – SQL script to create tables, insert data, and run queries
